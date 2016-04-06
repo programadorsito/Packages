@@ -1,4 +1,10 @@
 [
     { "keys": ["f10"], "command": "run_file" },
-    { "keys": ["f9"], "command": "compilar" }
+    { "keys": ["f9"], "command": "compilar" },
+    { "keys": ["ctrl+shift+alt+c"], "command": "crear_comando" },
+    { "keys": ["ctrl+shift+o"], "command": "order" },
+    { "keys": ["ctrl+shift+h"], "command": "control_folders" },
+    { "keys": ["ctrl+alt+h"], "command": "history_files" },
+    { "keys": ["ctrl+alt+i"], "command": "indentar" },
+    { "keys": ["ctrl+alt+s"], "command": "agregar_snippet" }
 ]

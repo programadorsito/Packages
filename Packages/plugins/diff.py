@@ -9,8 +9,8 @@ import time
 import re
 import os
 
-DIFF_PATH="D:\\sublime3\\Data\\diff"
-DIFF_JSON="D:\\sublime3\\Data\\diff\\diff.json"
+DIFF_PATH="/Users/Mac/aplicaciones/diff"
+DIFF_JSON="/Users/Mac/aplicaciones/diff/diff.json"
 
 def diff(texto1, texto2):
     pass

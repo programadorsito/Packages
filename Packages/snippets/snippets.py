@@ -5,6 +5,9 @@ import os
 import os.path
 import sublime_plugin
 
+def get_path_snippets():
+	return os.path.join(sublime.packages_path(), "snippets")
+
 class SnippetsListener(sublime_plugin.EventListener):
 	def on_query_completions(self, view, prefix, locations):
 		#if view.substr(view.line(view.sel()[0].a)).strip():return
@@ -74,7 +77,8 @@ class Snippets:
 		view=window.active_view()
 		tipo=utils.get_language()
 		#print("el tipo para los snippets es : "+tipo)
-		return sublime.packages_path()+os.sep+"snippets"+os.sep+tipo+".json"
+#		return sublime.packages_path()+os.sep+"snippets"+os.sep+tipo+".json"
+		return get_path_snippets()+"/"+tipo+".json"
 	
 	def cargarSnippets():
 		ruta=Snippets.ruta()

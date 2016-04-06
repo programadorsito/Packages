@@ -1,1 +1,1 @@
-mvn clean
+git push https://programadorsito:alejandromagno1@github.com/programadorsito/Packages

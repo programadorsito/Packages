@@ -3,14 +3,15 @@ import utils
 import sublime_plugin
 import sublime
 
-PROJECT_PATH="D:\\sublime3\\Data\\proyectos"
+def PROJECT_PATH():
+    return os.path.join(sublime.packages_path(), "..", "proyectos")
 
 class NuevoProyectoCommand(sublime_plugin.TextCommand):
     def run(self, edit):
-        folders=os.listdir(PROJECT_PATH)
+        folders=os.listdir(PROJECT_PATH())
         proyectos=[]
         for folder in folders:
-            for proyecto in os.listdir(PROJECT_PATH+os.sep+folder):
+            for proyecto in os.listdir(PROJECT_PATH()+os.sep+folder):
                 proyectos.append(folder+" : "+proyecto)
         self.proyectos=proyectos
         window=sublime.active_window()
