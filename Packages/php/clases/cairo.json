@@ -1,0 +1,1 @@
+["availableFonts( void)", "cairo_available_fonts( void)", "availableSurfaces( void)", "cairo_available_surfaces( void)", "statusToString( int $status)", "cairo_status_to_string( int $status)", "version( void)", "cairo_version( void)", "versionString( void)", "cairo_version_string( void)"]

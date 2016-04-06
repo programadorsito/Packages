@@ -1,0 +1,1 @@
+["close( void)", "create_sid( void)", "destroy( string $session_id)", "gc( int $maxlifetime)", "open( string $save_path , string $session_id)", "read( string $session_id)", "write( string $session_id , string $session_data)"]

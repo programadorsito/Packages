@@ -1,0 +1,1 @@
+["assemble( array $info [, array $query ])", "__construct([ string $controller_prefer = false [, string $delimiter = &quot;&quot; ]])", "route( Yaf_Request_Abstract $request)"]

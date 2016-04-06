@@ -1,0 +1,1 @@
+["addConfig( Yaf_Config_Abstract $config)", "addRoute( string $name , Yaf_Route_Abstract $route)", "__construct( void)", "getCurrentRoute( void)", "getRoute( string $name)", "getRoutes( void)", "route( Yaf_Request_Abstract $request)"]

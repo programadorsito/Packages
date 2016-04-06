@@ -1,0 +1,1 @@
+{"command": "class @Command(sublime_plugin.TextCommand):\n    def run(self, edit):\n        @", "print": "print(\"@\")", "sorted_comparator": "sorted(@list, cmp=@function)", "try_else": "try:\n    @\nexcept:\n    @\nelse:\n    @"}

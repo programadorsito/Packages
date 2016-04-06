@@ -1,0 +1,1 @@
+{"println": "println \"@\"", "readfile": "new File('@filepath').eachLine('UTF-8') {\n   println it\n}"}

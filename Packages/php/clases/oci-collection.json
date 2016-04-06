@@ -1,0 +1,1 @@
+["append( mixed $value)", "assign( OCI-Collection $from)", "assignElem( int $index , mixed $value)", "free( void)", "getElem( int $index)", "max( void)", "size( void)", "trim( int $num)"]

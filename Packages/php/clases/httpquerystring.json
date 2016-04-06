@@ -1,0 +1,1 @@
+["__construct([ bool $global = true [, mixed $add ]])", "get([ string $key [, mixed $type = 0 [, mixed $defval = NULL [, bool $delete = false ]]]])", "mod( mixed $params)", "set( mixed $params)", "singleton([ bool $global = true ])", "toArray( void)", "toString( void)", "xlate( string $ie , string $oe)"]

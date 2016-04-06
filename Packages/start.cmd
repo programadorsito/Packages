@@ -1,0 +1,1 @@
+@echo off && mongod --dbpath d:/data && pause>nul && exit

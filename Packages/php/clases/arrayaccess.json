@@ -1,0 +1,1 @@
+["offsetExists( mixed $offset)", "offsetGet( mixed $offset)", "offsetSet( mixed $offset , mixed $value)", "offsetUnset( mixed $offset)"]

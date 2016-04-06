@@ -1,0 +1,1 @@
+["execute([ string $query ])", "resetLimit( void)", "setLimit( string $property , string $low , string $high)", "setPhraseDelimiter( string $delimiter)", "setSort( string $sort)", "setStructure( int $structure)"]

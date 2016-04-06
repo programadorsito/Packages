@@ -1,0 +1,59 @@
+[
+    {
+        "caption": "Java: agregar libreria",
+        "command": "java_agregar_libreria"
+    },
+    {
+        "caption": "Java: crear atributo",
+        "command": "create_field"
+    },
+    {
+        "caption": "Java: cargar libreria",
+        "command": "java_cargar_libreria"
+    },
+    {
+        "caption": "Java: compilar",
+        "command": "java_compilar"
+    },
+    {
+        "caption": "Java: ejecutar",
+        "command": "java_ejecutar"
+    },
+    {
+        "caption": "Java: comentar clase",
+        "command": "java_comentar_clase"
+    },
+    {
+        "caption": "Java: revisar documentacion",
+        "command": "java_check_doc"
+    },
+    {
+        "caption": "Java: Descompilar clases",
+        "command": "decompile_classes"  
+    },
+    {
+        "caption": "Java: Documentar un proyecto desde otro",
+        "command": "decompile_classes"  
+    },
+    {
+        "caption": "Java: Clean",
+        "command": "java_clean"  
+    },
+    {
+        "caption": "Compare files",
+        "command": "compare_files"  
+    },
+    {
+        "caption": "Diff",
+        "command": "compare_files"  
+    },
+    {
+        "caption": "Java: Diffi Ignore comments",
+        "command": "compare_files_ignore_comments"  
+    },
+    {"caption": "java: rebuild index package","command": "build_java_index_package"},
+    {"caption": "java: Crear constructores","command": "create_constructors"},
+    {"caption": "java: process classes","command": "java_process_classes"},
+    {"caption": "Oracle: Comparar scripts base datos", "command": "compare_scripts_database"},
+    {"caption": "java: clean classes","command": "java_clean_classes"}
+]

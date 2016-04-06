@@ -1,0 +1,1 @@
+["__construct( string $rules [, string $areCompiled ])", "getBinaryRules( void)", "getRules( void)", "getRuleStatus( void)", "getRuleStatusVec( void)"]

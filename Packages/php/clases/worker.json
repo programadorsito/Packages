@@ -1,0 +1,1 @@
+["getStacked( void)", "isShutdown( void)", "isWorking( void)", "shutdown( void)", "stack( Threaded &$work)", "unstack([ Threaded &$work ])"]

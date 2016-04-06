@@ -1,0 +1,1 @@
+["__construct( string $file , float $width , float $height)", "getVersions( void)", "cairo_svg_get_versions( void)", "restrictToVersion( string $version)", "versionToString( int $version)"]

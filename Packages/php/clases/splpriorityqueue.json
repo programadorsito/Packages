@@ -1,0 +1,1 @@
+["compare( mixed $priority1 , mixed $priority2)", "count( void)", "current( void)", "extract( void)", "insert( mixed $value , mixed $priority)", "isEmpty( void)", "key( void)", "next( void)", "recoverFromCorruption( void)", "rewind( void)", "setExtractFlags( int $flags)", "top( void)", "valid( void)"]

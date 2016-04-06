@@ -1,0 +1,1 @@
+["appendData( string $data)", "deleteData( int $offset , int $count)", "insertData( int $offset , string $data)", "replaceData( int $offset , int $count , string $data)", "substringData( int $offset , int $count)"]

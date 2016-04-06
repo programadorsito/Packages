@@ -1,0 +1,1 @@
+["__clone( void)", "__construct( void)", "del( string $name)", "get( string $name)", "has( string $name)", "set( string $name , string $value)"]

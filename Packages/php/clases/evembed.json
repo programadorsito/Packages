@@ -1,0 +1,1 @@
+["__construct( object $other [, callable $callback [, mixed $data [, int $priority ]]])", "createStopped( object $other [, callable $callback [, mixed $data [, int $priority ]]])", "set( object $other)", "sweep( void)"]

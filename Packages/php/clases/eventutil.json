@@ -1,0 +1,1 @@
+["__construct( void)", "getLastSocketErrno([ mixed $socket = NULL ])", "getLastSocketError([ mixed $socket ])", "getSocketFd( mixed $socket)", "getSocketName( mixed $socket , string &$address [, mixed &$port ])", "setSocketOption( mixed $socket , int $level , int $optname , mixed $optval)", "sslRandPoll( void)"]

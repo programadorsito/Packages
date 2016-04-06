@@ -1,0 +1,1 @@
+["__construct([ string $name [, bool $autounlock ]])", "readlock([ integer $wait ])", "readunlock( void)", "writelock([ integer $wait ])", "writeunlock( void)"]

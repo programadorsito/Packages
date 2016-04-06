@@ -1,0 +1,1 @@
+["assign( string $name , string $value)", "call( callable $lua_func [, array $args [, int $use_self = 0 ]])", "__call( callable $lua_func [, array $args [, int $use_self = 0 ]])", "__construct( string $lua_script_file = NULL)", "eval( string $statements)", "getVersion( void)", "include( string $file)", "registerCallback( string $name , callable $function)"]

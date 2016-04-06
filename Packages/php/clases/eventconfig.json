@@ -1,0 +1,1 @@
+["avoidMethod( int $method)", "__construct( void)", "requireFeatures( int $feature)", "setMaxDispatchInterval( int $max_interval , int $max_callbacks , int $min_priority)"]

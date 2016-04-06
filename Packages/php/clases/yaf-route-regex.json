@@ -1,0 +1,1 @@
+["assemble( array $info [, array $query ])", "__construct( string $match , array $route [, array $map [, array $verify [, string $reverse ]]])", "route( Yaf_Request_Abstract $request)"]

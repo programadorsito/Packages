@@ -1,0 +1,1 @@
+["__construct( mixed $name)", "export( string $name [, string $return ])", "getClosure( void)", "invoke([ mixed $parameter [, mixed $... ]])", "invokeArgs( array $args)", "isDisabled( void)", "__toString( void)"]

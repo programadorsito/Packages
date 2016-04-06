@@ -1,0 +1,1 @@
+["close([ resource $dir_handle ])", "read([ resource $dir_handle ])", "rewind([ resource $dir_handle ])"]

@@ -1,0 +1,1 @@
+["assign( string $name [, string $value ])", "display( string $tpl [, array $tpl_vars ])", "getScriptPath( void)", "render( string $tpl [, array $tpl_vars ])", "setScriptPath( string $template_dir)"]

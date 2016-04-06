@@ -1,0 +1,1 @@
+{"include": "#include <@.h>", "null": "NULL", "print": "printf(\"%s\\n\", \"@\");", "printf": "printf(\"%s\\n\", \"@\");", "rename": "rename(\"@\",\"@\");", "sizeof": "sizeof(@)", "struct": "struct @nombre\n{\n    @type @name[@]\n};", "typedef": "typedef @;"}

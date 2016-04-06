@@ -1,0 +1,1 @@
+["connectUtil( void)", "getPoolSize( void)", "getSlave( void)", "getSlaveOkay( void)", "poolDebug( void)", "setPoolSize( int $size)", "setSlaveOkay([ bool $ok = true ])", "switchSlave( void)"]

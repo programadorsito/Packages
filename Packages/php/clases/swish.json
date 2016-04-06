@@ -1,0 +1,1 @@
+["__construct( string $index_names)", "getMetaList( string $index_name)", "getPropertyList( string $index_name)", "prepare([ string $query ])", "query( string $query)"]

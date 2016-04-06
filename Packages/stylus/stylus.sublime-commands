@@ -1,0 +1,14 @@
+[
+    {
+        "caption": "Stylus: compile",
+        "command": "stylus_compile"
+    },
+    {
+        "caption": "Stylus: compress",
+        "command": "stylus_compress"
+    },
+    {
+        "caption": "Stylus: watch",
+        "command": "stylus_watch"
+    }
+]

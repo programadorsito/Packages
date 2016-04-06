@@ -1,0 +1,1 @@
+["clear( void)", "__construct( void)", "feed( int $revents)", "getLoop( void)", "invoke( int $revents)", "keepalive([ bool $value ])", "setCallback( callable $callback)", "start( void)", "stop( void)"]

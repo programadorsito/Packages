@@ -1,0 +1,1 @@
+["addNameserverIp( string $ip)", "addSearch( string $domain)", "clearSearch( void)", "__construct( EventBase $base , bool $initialize)", "countNameservers( void)", "loadHosts( string $hosts)", "parseResolvConf( int $flags , string $filename)", "setOption( string $option , string $value)", "setSearchNdots( int $ndots)"]

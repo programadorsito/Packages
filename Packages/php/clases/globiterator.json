@@ -1,0 +1,1 @@
+["__construct( string $path [, int $flags = FilesystemIterator::KEY_AS_PATHNAME | FilesystemIterator::CURRENT_AS_FILEINFO ])", "count( void)"]

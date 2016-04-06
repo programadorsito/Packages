@@ -1,0 +1,1 @@
+["__construct( string $faultcode , string $faultstring [, string $faultactor [, string $detail [, string $faultname [, string $headerfault ]]]])", "SoapFault( string $faultcode , string $faultstring [, string $faultactor [, string $detail [, string $faultname [, string $headerfault ]]]])", "__toString( void)"]

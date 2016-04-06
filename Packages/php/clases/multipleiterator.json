@@ -1,0 +1,1 @@
+["attachIterator( Iterator $iterator [, string $infos ])", "containsIterator( Iterator $iterator)", "countIterators( void)", "current( void)", "detachIterator( Iterator $iterator)", "getFlags( void)", "key( void)", "next( void)", "rewind( void)", "setFlags( int $flags)", "valid( void)"]

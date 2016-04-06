@@ -1,0 +1,1 @@
+["beginLogging( void)", "endLogging( void)", "getChangedDataObjects( void)", "getChangeType( SDO_DataObject $dataObject)", "getOldContainer( SDO_DataObject $data_object)", "getOldValues( SDO_DataObject $data_object)", "isLogging( void)"]

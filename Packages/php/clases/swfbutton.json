@@ -1,0 +1,1 @@
+["addAction( SWFAction $action , int $flags)", "addASound( SWFSound $sound , int $flags)", "addShape( SWFShape $shape , int $flags)", "__construct( void)", "setAction( SWFAction $action)", "setDown( SWFShape $shape)", "setHit( SWFShape $shape)", "setMenu( int $flag)", "setOver( SWFShape $shape)", "setUp( SWFShape $shape)"]

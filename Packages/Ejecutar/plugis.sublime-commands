@@ -1,0 +1,10 @@
+[
+    {
+        "caption": "Ejecutar el archivo",
+        "command": "ejecutar"
+    },
+    {
+        "caption": "set host",
+        "command": "set_host"
+    }
+]

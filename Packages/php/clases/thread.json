@@ -1,0 +1,1 @@
+["detach( void)", "getCreatorId( void)", "getCurrentThread( void)", "getCurrentThreadId( void)", "getThreadId( void)", "globally( void)", "isJoined( void)", "isRunning( void)", "isStarted( void)", "join( void)", "kill( void)", "start([ integer $options ])"]

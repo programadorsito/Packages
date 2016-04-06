@@ -1,0 +1,1 @@
+["attach( HttpRequest $request)", "__construct([ HttpRequest $request [, HttpRequest $... ]])", "__destruct( void)", "detach( HttpRequest $request)", "getAttachedRequests( void)", "getFinishedRequests( void)", "reset( void)", "send( void)", "socketPerform( void)", "socketSelect([ float $timeout = 0 ])"]

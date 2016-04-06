@@ -1,0 +1,10 @@
+[
+    {
+        "caption": "Generar: clase",
+        "command": "generador_clase"
+    },
+    {
+        "caption": "Generate: Hibernte File",
+        "command": "generate_hibernate"  
+    }
+]

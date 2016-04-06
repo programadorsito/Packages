@@ -1,0 +1,1 @@
+["__construct( void)", "create( void)", "data( void)", "dataSize( void)", "function( void)", "functionName( void)", "isKnown( void)", "isRunning( void)", "jobHandle( void)", "recvData( int $data_len)", "returnCode( void)", "sendData( string $data)", "sendWorkload( string $data)", "taskDenominator( void)", "taskNumerator( void)", "unique( void)", "uuid( void)"]

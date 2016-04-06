@@ -1,0 +1,1 @@
+["attach( SplObserver $observer)", "detach( SplObserver $observer)", "notify( void)"]

@@ -1,0 +1,1 @@
+["__construct([ int $flags = 0 ])", "factory([ int $flags = 0 [, string $class_name = &quot;HttpDeflateStream&quot; ]])", "finish([ string $data ])", "flush([ string $data ])", "update( string $data)"]

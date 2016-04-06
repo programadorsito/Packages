@@ -1,0 +1,1 @@
+["__construct( int $pid , bool $trace , callable $callback [, mixed $data = NULL [, int $priority = 0 ]])", "createStopped( int $pid , bool $trace , callable $callback [, mixed $data [, int $priority ]])", "set( int $pid , bool $trace)"]

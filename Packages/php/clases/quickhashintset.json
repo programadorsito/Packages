@@ -1,0 +1,1 @@
+["add( int $key)", "__construct( int $size [, int $options ])", "delete( int $key)", "exists( int $key)", "getSize( void)", "loadFromFile( string $filename [, int $size [, int $options ]])", "loadFromString( string $contents [, int $size [, int $options ]])", "saveToFile( string $filename)", "saveToString( void)"]

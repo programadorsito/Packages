@@ -1,0 +1,1 @@
+["setBorderStyle( float $width , int $dash_on , int $dash_off)", "setHighlightMode( int $mode)", "setIcon( int $icon)", "setOpened( bool $opened)"]

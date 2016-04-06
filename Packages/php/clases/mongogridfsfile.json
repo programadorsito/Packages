@@ -1,0 +1,1 @@
+["__construct( MongoGridFS $gridfs , array $file)", "getBytes( void)", "getFilename( void)", "getResource( void)", "getSize( void)", "write([ string $filename = NULL ])"]

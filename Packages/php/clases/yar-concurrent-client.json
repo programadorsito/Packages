@@ -1,0 +1,1 @@
+["call( string $uri , string $method , array $parameters [, callable $callback ])", "loop([ callable $callback [, callable $error_callback ]])"]

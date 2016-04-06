@@ -1,0 +1,1 @@
+["get( string $name , mixed $value)", "readonly( void)", "set( void)", "toArray( void)"]

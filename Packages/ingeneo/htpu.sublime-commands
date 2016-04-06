@@ -1,0 +1,4 @@
+[
+    {"caption": "htpu","command": "htpu"},
+    {"caption": "htpu web","command": "htpu_web"}
+]

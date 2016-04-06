@@ -1,0 +1,1 @@
+["attr( void)", "__construct( string $path , double $interval , callable $callback [, mixed $data = NULL [, int $priority = 0 ]])", "createStopped( string $path , double $interval , callable $callback [, mixed $data = NULL [, int $priority = 0 ]])", "prev( void)", "set( string $path , double $interval)", "stat( void)"]

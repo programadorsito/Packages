@@ -1,0 +1,1 @@
+["getNamedItem( string $name)", "getNamedItemNS( string $namespaceURI , string $localName)", "item( int $index)"]

@@ -1,0 +1,1 @@
+["eigenValues( array $a [, array $left [, array $right ]])", "identity( int $n)", "leastSquaresByFactorisation( array $a , array $b)", "leastSquaresBySVD( array $a , array $b)", "pseudoInverse( array $a)", "singularValues( array $a)", "solveLinearEquation( array $a , array $b)"]

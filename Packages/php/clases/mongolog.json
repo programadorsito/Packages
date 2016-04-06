@@ -1,0 +1,1 @@
+["getCallback( void)", "getLevel( void)", "getModule( void)", "setCallback( callable $log_function)", "log_function( int $module , int $level , string $message)", "setLevel( int $level)", "setModule( int $module)"]

@@ -1,0 +1,1 @@
+["__construct( void)", "execute( mysqlnd_prepared_statement $statement)", "prepare( mysqlnd_prepared_statement $statement , string $query)"]

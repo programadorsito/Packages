@@ -1,0 +1,1 @@
+["__construct( void)", "getMatrix( void)", "cairo_get_matrix( CairoContext $context)", "getType( void)", "setMatrix( string $matrix)", "cairo_set_matrix( CairoContext $context , CairoMatrix $matrix)", "status( void)", "cairo_status( CairoContext $context)"]

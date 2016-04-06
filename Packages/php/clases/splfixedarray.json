@@ -1,0 +1,1 @@
+["count( void)", "current( void)", "fromArray( array $array [, bool $save_indexes = true ])", "getSize( void)", "key( void)", "next( void)", "offsetExists( int $index)", "offsetGet( int $index)", "offsetSet( int $index , mixed $newval)", "offsetUnset( int $index)", "rewind( void)", "setSize( int $size)", "toArray( void)", "valid( void)", "__wakeup( void)"]

@@ -1,0 +1,1 @@
+["again( void)", "__construct( double $after , double $repeat , callable $callback [, mixed $data = NULL [, int $priority = 0 ]])", "createStopped( double $after , double $repeat , callable $callback [, mixed $data = NULL [, int $priority = 0 ]])", "set( double $after , double $repeat)"]

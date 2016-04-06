@@ -1,0 +1,1 @@
+["append( Iterator $iterator)", "current( void)", "getArrayIterator( void)", "getInnerIterator( void)", "getIteratorIndex( void)", "key( void)", "next( void)", "rewind( void)", "valid( void)"]

@@ -1,0 +1,10 @@
+[
+    {
+        "caption": "compilar",
+        "command": "compilar"
+    },
+    {
+        "caption": "buscar errores",
+        "command": "buscar_errores"
+    }
+]

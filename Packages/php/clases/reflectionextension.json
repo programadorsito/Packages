@@ -1,0 +1,1 @@
+["__clone( void)", "__construct( string $name)", "export( string $name [, string $return = false ])", "getClasses( void)", "getClassNames( void)", "getConstants( void)", "getDependencies( void)", "getFunctions( void)", "getINIEntries( void)", "getName( void)", "getVersion( void)", "info( void)", "isPersistent( void)", "isTemporary( void)", "__toString( void)"]

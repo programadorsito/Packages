@@ -1,0 +1,1 @@
+["__construct( int $signum , callable $callback [, mixed $data = NULL [, int $priority = 0 ]])", "createStopped( int $signum , callable $callback [, mixed $data = NULL [, int $priority = 0 ]])", "set( int $signum)"]

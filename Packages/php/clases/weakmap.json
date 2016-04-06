@@ -1,0 +1,1 @@
+["__construct( void)", "count( void)", "current( void)", "key( void)", "next( void)", "offsetExists( object $object)", "offsetGet( object $object)", "offsetSet( object $object , mixed $value)", "offsetUnset( object $object)", "rewind( void)", "valid( void)"]

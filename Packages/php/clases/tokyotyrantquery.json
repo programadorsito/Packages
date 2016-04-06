@@ -1,0 +1,1 @@
+["addCond( string $name , int $op , string $expr)", "__construct( TokyoTyrantTable $table)", "count( void)", "current( void)", "hint( void)", "key( void)", "metaSearch( array $queries , int $type)", "next( void)", "out( void)", "rewind( void)", "search( void)", "setLimit([ int $max [, int $skip ]])", "setOrder( string $name , int $type)", "valid( void)"]

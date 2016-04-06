@@ -1,0 +1,1 @@
+["__construct([ string $color ])", "getcolor([ bool $as_array [, bool $normalize_array ]])", "getcolorcount( void)", "getcolorvalue( int $color)", "setcolor( string $color)", "setcolorvalue( int $color , float $value)"]

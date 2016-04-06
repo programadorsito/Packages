@@ -1,0 +1,1 @@
+["add( object $object)", "__construct( void)", "labelFrame( string $label)", "nextFrame( void)", "remove( object $object)", "setFrames( int $number)", "startSound( SWFSound $sount)", "stopSound( SWFSound $sount)"]

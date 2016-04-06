@@ -1,0 +1,1 @@
+python D:\programacion\sublime3\Data\Packages/temporalm.py > D:\programacion\sublime3\Data\Packages/temporalm.txtWQWWWWW

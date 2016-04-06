@@ -1,0 +1,27 @@
+{
+	"always_show_minimap_viewport": true,
+	"auto_complete_delay": 0.5,
+	"auto_complete_triggers":
+	[
+		{
+			"characters": "<abcdefghijklmnñopqrstwxyzABCDEFGHIJKLMNÑOPQRSTWXYZ",
+			"selector": "text.html, text.jsf, text.android, text.zul, text.xaml, text.xml,text.plain"
+		}
+	],
+	"copy_with_empty_selection": false,
+	"fade_fold_buttons": false,
+	"font_size": 18,
+	"highlight_line": true,
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+	"save_on_focus_lost": true,
+	"scroll_speed": 1,
+	"show_encoding": true,
+	"soda_folder_icons": true,
+	"tabs_small": true,
+	"translate_tabs_to_spaces": true,
+	"update_check": false,
+	"word_wrap": false
+}

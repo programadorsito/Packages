@@ -1,0 +1,1 @@
+["__clone( void)", "__construct( string $name)", "export( string $name [, string $return ])", "getAuthor( void)", "getCopyright( void)", "getName( void)", "getURL( void)", "getVersion( void)", "__toString( void)"]

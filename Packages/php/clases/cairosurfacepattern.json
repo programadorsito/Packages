@@ -1,0 +1,1 @@
+["__construct( CairoSurface $surface)", "getExtend( void)", "getFilter( void)", "getSurface( void)", "setExtend( int $extend)", "setFilter( string $filter)"]

@@ -1,0 +1,1 @@
+["getRootDataObject( void)", "getRootElementName( void)", "getRootElementURI( void)", "setEncoding( string $encoding)", "setXMLDeclaration( bool $xmlDeclatation)", "setXMLVersion( string $xmlVersion)"]

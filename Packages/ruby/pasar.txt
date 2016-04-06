@@ -1,0 +1,34 @@
+import os
+import re
+import os.path
+import sublime
+folder="E:/programacion/sublime3/Data/Packages/ruby/librerias"
+lista=[]
+def escribirObjeto(texto):
+	texto=re.sub("help='[^']*'", "", texto)
+	texto=re.sub("complete='[^']*'", "", texto)
+	texto=re.sub("return='[^']*'", "", texto)
+	objeto=re.findall("<object name='([^']+)'", texto)[0]
+	metodosObjeto=re.findall("<method\s+name='([^']+)'\s+static='False'", texto)
+	metodosClase=re.findall("<method\s+name='([^']+)'\s+static='True'", texto)
+	clase={}
+	clase["objeto"]=metodosObjeto
+	clase["clase"]=metodosClase
+	path=os.path.join(folder, objeto+".json")
+	archivo=open(path, "w")
+	archivo.write(sublime.encode_value(clase))
+	archivo.close()
+	lista.append(objeto)
+
+def sacarObjetos():
+	objeto=""
+	for l in open("E:/programacion/sublime3Estable/Data/Packages/SublimeRuby/ruby.xml").readlines():
+		if l.strip().startswith("<object "):
+			if objeto:escribirObjeto(objeto)
+			objeto=""
+		objeto+=l
+
+sacarObjetos()
+archivo=open("E:/programacion/sublime3/Data/Packages/ruby/librerias.json", "w")
+archivo.write(sublime.encode_value(lista))
+archivo.close()

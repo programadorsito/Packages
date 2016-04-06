@@ -1,0 +1,1 @@
+["columnName( int $column_number)", "columnType( int $column_number)", "fetchArray([ int $mode = SQLITE3_BOTH ])", "finalize( void)", "numColumns( void)", "reset( void)"]

@@ -1,0 +1,1 @@
+["__construct( string $data , string $encoding [, string $type_name [, string $type_namespace [, string $node_name [, string $node_namespace ]]]])", "SoapVar( mixed $data , string $encoding [, string $type_name [, string $type_namespace [, string $node_name [, string $node_namespace ]]]])"]

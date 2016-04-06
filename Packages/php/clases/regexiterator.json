@@ -1,0 +1,1 @@
+["accept( void)", "getFlags( void)", "getMode( void)", "getPregFlags( void)", "getRegex( void)", "setFlags( int $flags)", "setMode( int $mode)", "setPregFlags( int $preg_flags)"]

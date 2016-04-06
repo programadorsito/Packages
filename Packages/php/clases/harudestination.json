@@ -1,0 +1,1 @@
+["setFit( void)", "setFitB( void)", "setFitBH( float $top)", "setFitBV( float $left)", "setFitH( float $top)", "setFitR( float $left , float $bottom , float $right , float $top)", "setFitV( float $left)", "setXYZ( float $left , float $top , float $zoom)"]

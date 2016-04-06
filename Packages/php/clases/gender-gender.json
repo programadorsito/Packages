@@ -1,0 +1,1 @@
+["connect( string $dsn)", "__construct([ string $dsn ])", "country( integer $country)", "get( string $name [, integer $country ])", "isNick( string $name0 , string $name1 [, integer $country ])", "similarNames( string $name [, integer $country ])"]

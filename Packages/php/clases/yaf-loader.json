@@ -1,0 +1,1 @@
+["autoload( void)", "clearLocalNamespace( void)", "__clone( void)", "__construct( void)", "getInstance( void)", "getLibraryPath([ bool $is_global = false ])", "getLocalNamespace( void)", "import( void)", "isLocalName( void)", "registerLocalNamespace( mixed $prefix)", "setLibraryPath( string $directory [, bool $is_global = false ])", "__sleep( void)", "__wakeup( void)"]

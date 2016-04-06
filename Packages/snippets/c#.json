@@ -1,0 +1,1 @@
+{"get_item_from_listbox": "ListBoxItem item=(@ltbNombre.SelectedItem as ListBoxItem);"}

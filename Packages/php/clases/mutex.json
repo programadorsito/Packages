@@ -1,0 +1,1 @@
+["create([ boolean $lock ])", "destroy( long $mutex)", "lock( long $mutex)", "trylock( long $mutex)", "unlock( long $mutex [, boolean $destroy ])"]

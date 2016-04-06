@@ -1,0 +1,1 @@
+["batchSize( int $batchSize)", "__construct( MongoClient $connection , string $ns [, array $command = array() ])", "createFromDocument( MongoClient $connection , string $hash , array $document)", "current( void)", "dead( void)", "info( void)", "key( void)", "next( void)", "rewind( void)", "valid( void)"]

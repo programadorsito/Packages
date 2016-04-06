@@ -1,0 +1,1 @@
+{"extends": "{% extends '@base.html.twig' %}", "symfony_asset": "{{ asset('@') }}"}

@@ -1,0 +1,1 @@
+["filter( resource $in , resource $out , int &$consumed , bool $closing)", "onClose( void)", "onCreate( void)"]

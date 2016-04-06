@@ -1,0 +1,1 @@
+["getParsedWords( string $index_name)", "getRemovedStopwords( string $index_name)", "nextResult( void)", "seekResult( int $position)"]

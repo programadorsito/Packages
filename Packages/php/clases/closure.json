@@ -1,0 +1,1 @@
+["bind( Closure $closure , object $newthis [, mixed $newscope = &quot;static&quot; ])", "bindTo( object $newthis [, mixed $newscope = &quot;static&quot; ])", "__construct( void)"]

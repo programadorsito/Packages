@@ -1,0 +1,1 @@
+["getAscent( void)", "getCapHeight( void)", "getDescent( void)", "getEncodingName( void)", "getFontName( void)", "getTextWidth( string $text)", "getUnicodeWidth( int $character)", "getXHeight( void)", "measureText( string $text , float $width , float $font_size , float $char_space , float $word_space [, bool $word_wrap = false ])"]

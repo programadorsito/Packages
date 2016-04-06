@@ -1,0 +1,1 @@
+["__construct( void)", "__destruct( void)", "getPropertyNames( void)", "offsetExists( string $property_name)", "offsetGet( string $property_name)", "offsetSet( string $property_name , string $property_value)", "offsetUnset( string $property_name)"]

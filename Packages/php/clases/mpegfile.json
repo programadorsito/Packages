@@ -1,0 +1,1 @@
+["getAudioProperties( void)", "getID3v1Tag([ bool $create = false ])", "getID3v2Tag([ bool $create = false ])"]

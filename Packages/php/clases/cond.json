@@ -1,0 +1,1 @@
+["broadcast( long $condition)", "create( void)", "destroy( long $condition)", "signal( long $condition)", "wait( long $condition , long $mutex [, long $timeout ])"]

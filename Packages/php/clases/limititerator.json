@@ -1,0 +1,1 @@
+["__construct( Iterator $iterator [, int $offset = 0 [, int $count = -1 ]])", "current( void)", "getInnerIterator( void)", "getPosition( void)", "key( void)", "next( void)", "rewind( void)", "seek( int $position)", "valid( void)"]

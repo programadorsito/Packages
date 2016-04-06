@@ -1,0 +1,1 @@
+["moveTo( float $x , float $y)", "rotateTo( float $angle)", "scaleTo( float $x [, float $y ])", "skewXTo( float $x)", "skewYTo( float $y)"]

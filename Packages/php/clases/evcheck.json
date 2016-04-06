@@ -1,0 +1,1 @@
+["__construct( callable $callback [, mixed $data [, int $priority ]])", "createStopped( string $callback [, string $data [, string $priority ]])"]

@@ -1,0 +1,1 @@
+["getBaseType( void)", "getName( void)", "getNamespaceURI( void)", "getProperties( void)", "getProperty( mixed $identifier)", "isAbstractType( void)", "isDataType( void)", "isInstance( SDO_DataObject $data_object)", "isOpenType( void)", "isSequencedType( void)"]

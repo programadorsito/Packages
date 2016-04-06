@@ -1,0 +1,1 @@
+["collect( Callable $collector)", "__construct( integer $size , string $class [, array $ctor ])", "resize( integer $size)", "shutdown( void)", "submit( Threaded $task)", "submitTo( integer $worker , Threaded $task)"]

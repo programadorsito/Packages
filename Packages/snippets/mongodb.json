@@ -1,0 +1,1 @@
+{"find": "db.@collection.find({\"@\":@})", "findone": "db.@collection.findOne({\"@\":@})", "insert": "db.@collection.insert({@})", "remove": "db.@collection.remove({\"@\":@})", "show_collections": "show collections", "show_dbs": "show dbs", "update": "db.@collection.update({\"@\":@}, @)", "use_database": "use @database;"}

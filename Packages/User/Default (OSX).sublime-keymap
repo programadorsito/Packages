@@ -1,0 +1,4 @@
+[
+    { "keys": ["f10"], "command": "run_file" },
+    { "keys": ["f9"], "command": "compilar" }
+]

@@ -1,0 +1,1 @@
+["checkProbabilityModel( void)", "__construct([ string $filename ])", "getLabels( void)", "getNrClass( void)", "getSvmType( void)", "getSvrProbability( void)", "load( string $filename)", "predict_probability( array $data)", "predict( array $data)", "save( string $filename)"]

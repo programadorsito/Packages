@@ -1,0 +1,1 @@
+["addPropertyToType( string $parent_type_namespace_uri , string $parent_type_name , string $property_name , string $type_namespace_uri , string $type_name [, array $options ])", "addType( string $type_namespace_uri , string $type_name [, array $options ])", "getDataFactory( void)"]

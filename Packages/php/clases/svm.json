@@ -1,0 +1,1 @@
+["__construct( void)", "crossvalidate( array $problem , int $number_of_folds)", "getOptions( void)", "setOptions( array $params)", "train( array $problem [, array $weights ])"]

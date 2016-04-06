@@ -1,0 +1,1 @@
+["__construct([ string $name ])", "lock([ integer $wait ])", "unlock([ bool $all ])"]

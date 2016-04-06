@@ -1,0 +1,1 @@
+["__construct( string $filename [, string $mimetype [, string $postname ]])", "curl_file_create( string $filename [, string $mimetype [, string $postname ]])", "getFilename( void)", "getMimeType( void)", "getPostFilename( void)", "setMimeType( string $mime)", "setPostFilename( string $postname)", "__wakeup( void)"]

@@ -1,0 +1,1 @@
+["__construct( mixed $fd , int $events , callable $callback [, mixed $data [, int $priority ]])", "createStopped( mixed $fd , int $events , callable $callback [, mixed $data = NULL [, int $priority = 0 ]])", "set( mixed $fd , int $events)"]

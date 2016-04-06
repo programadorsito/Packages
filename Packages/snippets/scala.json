@@ -1,0 +1,1 @@
+{"caseclass": "case class @ClassName(@FieldName:@Type)", "filter": "filter( _ @)", "map": "map( _ @)"}

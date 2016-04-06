@@ -1,0 +1,1 @@
+["create( string $collection , mixed $id [, string $database ])", "get( MongoDB $db , array $ref)", "isRef( mixed $ref)"]

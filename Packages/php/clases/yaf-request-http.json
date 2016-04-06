@@ -1,0 +1,1 @@
+["__clone( void)", "__construct( void)", "get( string $name [, string $default ])", "getCookie( string $name [, string $default ])", "getFiles( void)", "getPost( string $name [, string $default ])", "getQuery( string $name [, string $default ])", "getRequest( void)", "isXmlHttpRequest( void)"]

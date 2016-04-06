@@ -1,0 +1,6 @@
+[
+    {
+        "caption": "completar libreria agregando un archivo jar para completacion",
+        "command": "completar_libreria"
+    }
+]

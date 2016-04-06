@@ -1,0 +1,1 @@
+["close( void)", "destroy( string $session_id)", "gc( string $maxlifetime)", "open( string $save_path , string $name)", "read( string $session_id)", "write( string $session_id , string $session_data)"]

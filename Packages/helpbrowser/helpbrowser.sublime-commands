@@ -1,0 +1,38 @@
+[
+    {
+        "caption": "help: ayuda",
+        "command": "help_browser"
+    },
+    {
+        "caption": "help: bootstrap",
+        "command": "help_bootstrap"
+    },
+    {
+        "caption": "help: stackoverflow",
+        "command": "help_stackoverflow"
+    },
+    {
+        "caption": "help: java ee",
+        "command": "help_javaee_tutorial"
+    },
+    {
+        "caption": "help: java ee api",
+        "command": "help_javaee_api"
+    },
+    {
+        "caption": "help: primefaces",
+        "command": "help_primefaces"
+    },
+    {
+        "caption": "help: primefaces api",
+        "command": "help_primefaces_api"
+    },
+    {
+        "caption": "help: sublime api",
+        "command": "help_sublime"
+    },
+    {
+        "caption": "help: jquery",
+        "command": "help_jquery"
+    }
+]

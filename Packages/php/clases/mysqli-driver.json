@@ -1,0 +1,1 @@
+["embedded_server_end( void)", "mysqli_embedded_server_end( void)", "embedded_server_start( bool $start , array $arguments , array $groups)", "mysqli_embedded_server_start( bool $start , array $arguments , array $groups)", "mysqli_report( int $flags)"]

@@ -1,0 +1,1 @@
+["__construct( DOMDocument $doc)", "evaluate( string $expression [, DOMNode $contextnode [, bool $registerNodeNS = true ]])", "query( string $expression [, DOMNode $contextnode [, bool $registerNodeNS = true ]])", "registerNamespace( string $prefix , string $namespaceURI)", "registerPhpFunctions([ mixed $restrict ])"]

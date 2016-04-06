@@ -1,0 +1,1 @@
+["again( void)", "at( void)", "__construct( double $offset , string $interval , callable $reschedule_cb , callable $callback [, mixed $data = NULL [, int $priority = 0 ]])", "createStopped( double $offset , double $interval , callable $reschedule_cb , callable $callback [, mixed $data = NULL [, int $priority = 0 ]])", "set( double $offset , double $interval)"]

@@ -1,0 +1,1 @@
+["add( mixed $entry , integer $type)", "clear( void)", "count( void)", "getLastErrors( void)", "poll( array &$readable , array &$writable [, integer $timeout = -1 ])", "remove( mixed $item)"]

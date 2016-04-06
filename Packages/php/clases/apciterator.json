@@ -1,0 +1,1 @@
+["__construct( string $cache [, mixed $search = null [, int $format = APC_ITER_ALL [, int $chunk_size = 100 [, int $list = APC_LIST_ACTIVE ]]]])", "current( void)", "getTotalCount( void)", "getTotalHits( void)", "getTotalSize( void)", "key( void)", "next( void)", "rewind( void)", "valid( void)"]

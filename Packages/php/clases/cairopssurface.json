@@ -1,0 +1,1 @@
+["__construct( string $file , float $width , float $height)", "dscBeginPageSetup( void)", "dscBeginSetup( void)", "dscComment( string $comment)", "getEps( void)", "getLevels( void)", "levelToString( int $level)", "restrictToLevel( string $level)", "setEps( string $level)", "setSize( string $width , string $height)"]

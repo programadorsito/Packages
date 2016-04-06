@@ -1,0 +1,1 @@
+["add( string $name , string $value)", "addParam( string $name , string $value)", "get( string $param_name)", "getParam([ string $param_name ])", "getParams( void)", "getPreparedParams( void)", "serialize( void)", "set( string $name , string $value)", "setParam( string $name , string $value)", "toString([ bool $url_encode = false ])", "unserialize( string $serialized)"]

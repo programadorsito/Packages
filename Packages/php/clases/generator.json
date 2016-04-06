@@ -1,0 +1,1 @@
+["current( void)", "key( void)", "next( void)", "rewind( void)", "send( mixed $value)", "throw( Exception $exception)", "valid( void)", "__wakeup( void)"]

@@ -1,0 +1,1 @@
+["getDescription( void)", "getMimeType( void)", "getType( void)", "savePicture( string $filename)", "getMimeType( string $type)", "setPicture( string $filename)", "setType( int $type)"]

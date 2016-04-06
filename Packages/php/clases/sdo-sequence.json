@@ -1,0 +1,1 @@
+["getProperty( int $sequence_index)", "insert( mixed $value [, int $sequenceIndex [, mixed $propertyIdentifier ]])", "move( int $toIndex, int $fromIndex)"]

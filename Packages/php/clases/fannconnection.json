@@ -1,0 +1,1 @@
+["__construct( int $from_neuron , int $to_neuron , float $weight)", "getFromNeuron( void)", "getToNeuron( void)", "getWeight( void)", "setWeight( float $weight)"]

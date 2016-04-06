@@ -1,0 +1,1 @@
+["__construct([ EventConfig $cfg ])", "dispatch( void)", "exit([ double $timeout ])", "getFeatures( void)", "getMethod([ EventConfig $cfg ])", "getTimeOfDayCached( void)", "gotExit( void)", "gotStop( void)", "loop([ int $flags ])", "priorityInit( int $n_priorities)", "reInit( void)", "stop( void)"]

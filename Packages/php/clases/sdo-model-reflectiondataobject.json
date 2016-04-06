@@ -1,0 +1,1 @@
+["__construct( SDO_DataObject $data_object)", "export( SDO_Model_ReflectionDataObject $rdo [, bool $return ])", "getContainmentProperty( void)", "getInstanceProperties( void)", "getType( void)"]

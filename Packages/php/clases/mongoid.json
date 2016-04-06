@@ -1,0 +1,1 @@
+["__construct([ string $id = NULL ])", "getHostname( void)", "getInc( void)", "getPID( void)", "getTimestamp( void)", "isValid( mixed $value)", "__set_state( array $props)", "__toString( void)"]

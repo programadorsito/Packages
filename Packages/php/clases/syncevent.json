@@ -1,0 +1,1 @@
+["__construct([ string $name [, bool $manual ]])", "fire( void)", "reset( void)", "wait([ integer $wait ])"]

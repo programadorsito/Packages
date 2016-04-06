@@ -1,0 +1,1 @@
+["__construct( void)", "createDocument([ string $namespaceURI = NULL [, string $qualifiedName = NULL [, DOMDocumentType $doctype = NULL ]]])", "createDocumentType([ string $qualifiedName = NULL [, string $publicId = NULL [, string $systemId = NULL ]]])", "hasFeature( string $feature , string $version)"]

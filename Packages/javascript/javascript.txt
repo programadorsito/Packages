@@ -1,0 +1,12 @@
+{
+	"Array()":
+	[
+		"sort()",
+		"push(String)"
+	],
+	"window":
+	[
+		"alert(String)",
+		"open(url)"
+	]
+}

@@ -1,0 +1,1 @@
+["digestXmlResponse( string $xmlresponse [, int $parse_mode = 0 ])", "escapeQueryChars( string $str)", "getSolrVersion( void)", "queryPhrase( string $str)"]

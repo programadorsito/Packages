@@ -1,0 +1,1 @@
+exec least(1,2);

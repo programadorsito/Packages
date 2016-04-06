@@ -1,0 +1,1 @@
+["__construct([ integer $io_threads = 1 [, boolean $is_persistent = true ]])", "getOpt( string $key)", "getSocket( integer $type [, string $persistent_id = null [, callback $on_new_socket = null ]])", "isPersistent( void)", "setOpt( integer $key , mixed $value)"]

@@ -1,0 +1,1 @@
+["addColorStopRgb( string $offset , string $red , string $green , string $blue)", "addColorStopRgba( string $offset , string $red , string $green , string $blue , string $alpha)", "getColorStopCount( void)", "getColorStopRgba( string $index)", "getExtend( void)", "setExtend( int $extend)"]

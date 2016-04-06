@@ -1,0 +1,1 @@
+["getBitsPerComponent( void)", "getColorSpace( void)", "getHeight( void)", "getSize( void)", "getWidth( void)", "setColorMask( int $rmin , int $rmax , int $gmin , int $gmax , int $bmin , int $bmax)", "setMaskImage( object $mask_image)"]

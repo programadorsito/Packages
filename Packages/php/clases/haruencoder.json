@@ -1,0 +1,1 @@
+["getByteType( string $text , int $index)", "getType( void)", "getUnicode( int $character)", "getWritingMode( void)"]
